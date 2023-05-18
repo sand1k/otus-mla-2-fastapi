@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+requests
+pytest
+pre-commit
+scikit-learn
+pandas
+numpy
+pydantic
